@@ -2,7 +2,7 @@
 	/* CSS Code */
 	/* Heading */
 	h1 {
-		color: orangered;
+		color: rgb(14, 93, 240);
 		font-size: 45px;
 	}
 
@@ -12,7 +12,7 @@
 		width: 80px;
 		height: 52px;
 		margin: auto;
-		border: 1px solid gray;
+		border: 1px solid rgb(255, 255, 255);
 		border-radius: 6px;
 		font-size: 30px;
 		text-align: center;
@@ -23,13 +23,13 @@
 		box-sizing: border-box;
 		width: 95px;
 		height: 40px;
-		border: 1px solid dodgerblue;
+		border: 1px solid rgb(176, 252, 0);
 		margin: auto;
 		border-radius: 4px;
 		font-family: Verdana,
 			Geneva, Tahoma, sans-serif;
 
-		background-color: dodgerblue;
+		background-color: rgb(176, 252, 0);
 		color: white;
 		font-size: 20px;
 		cursor: pointer;
@@ -40,7 +40,7 @@
 		font-family: Verdana,
 			Geneva, Tahoma, sans-serif;
 
-		color: dodgerblue;
+		color: rgb(255, 131, 30);
 		font-size: 20px;
 	}
 
